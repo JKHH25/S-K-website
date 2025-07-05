@@ -1,0 +1,105 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tischlerei Steineker & Krall</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <h1>Tischlerei Steineker & Krall</h1>
+      <nav>
+        <a href="#about">Über uns</a>
+        <a href="#services">Leistungen</a>
+        <a href="#approach">Arbeitsweise</a>
+        <a href="#process">Ablauf</a>
+        <a href="#team">Team</a>
+        <a href="#workshop">Werkstatt</a>
+        <a href="#contact">Kontakt</a>
+      </nav>
+    </div>
+  </header>
+
+  <section id="about" class="section">
+    <div class="container">
+      <h2>Über uns</h2>
+      <p>Wir sind ein familiengeführter Handwerksbetrieb mit Sitz in Hamburg und einem Team von 15 Mitarbeitenden. Qualität, Präzision und Persönlichkeit stehen bei uns im Mittelpunkt.</p>
+    </div>
+  </section>
+
+  <section id="services" class="section">
+    <div class="container">
+      <h2>Unsere Leistungen</h2>
+      <ul>
+        <li><strong>Möbel & Innenausbau:</strong> Individuell geplant und gefertigt.</li>
+        <li><strong>Küchen:</strong> Maßgefertigt für Funktion und Design.</li>
+        <li><strong>Innentüren:</strong> Passend und stilvoll in jedem Raum.</li>
+        <li><strong>Haustüren:</strong> Sicher, langlebig und ästhetisch.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="approach" class="section light">
+    <div class="container">
+      <h2>Unsere Arbeitsweise</h2>
+      <ul>
+        <li>Digitales Arbeiten – vom Aufmaß bis zur Montage</li>
+        <li>Moderner CNC-Maschinenpark</li>
+        <li>Transparente Prozesse</li>
+        <li>Familiäres Team mit kurzen Dienstwegen</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="process" class="section">
+    <div class="container">
+      <h2>Projektablauf</h2>
+      <ol>
+        <li>Anfrage per Telefon oder E-Mail</li>
+        <li>Ersttermin bei Ihnen oder bei uns in der Werkstatt</li>
+        <li>Digitales Aufmaß</li>
+        <li>Entwurf & Visualisierung</li>
+        <li>Fertigung in unserer Werkstatt</li>
+        <li>Montage vor Ort</li>
+      </ol>
+    </div>
+  </section>
+
+  <section id="team" class="section light">
+    <div class="container">
+      <h2>Unser Team</h2>
+      <p>15 Fachkräfte, ein Ziel: Handwerk auf höchstem Niveau. Wir stehen für Verlässlichkeit, Erfahrung und Teamgeist.</p>
+    </div>
+  </section>
+
+  <section id="workshop" class="section">
+    <div class="container">
+      <h2>Unsere Werkstatt</h2>
+      <p>Modern ausgestattet, traditionell verwurzelt – hier entsteht jedes Projekt mit viel Liebe zum Detail und modernster Technik.</p>
+    </div>
+  </section>
+
+  <section id="contact" class="section light">
+    <div class="container">
+      <h2>Kontakt</h2>
+      <p>
+        Tischlerei Steineker & Krall<br>
+        Hamburg<br>
+        📞 <a href="tel:040123456">040 / 123 456</a><br>
+        📧 <a href="mailto:info@steineker-krall.de">info@steineker-krall.de</a>
+      </p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Tischlerei Steineker & Krall – Hamburg</p>
+    </div>
+  </footer>
+
+</body>
+</html>
